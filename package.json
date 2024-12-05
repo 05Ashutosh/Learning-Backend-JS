@@ -1,0 +1,20 @@
+{
+  "name": "backend_js_1",
+  "version": "1.0.0",
+  "description": "learning js in backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "ashu",
+    "chai"
+  ],
+  "author": "Ashutosh Singh Bisht",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1"
+  }
+}
